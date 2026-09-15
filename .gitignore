@@ -17,3 +17,6 @@ dist/
 .DS_Store
 *.log
 .env*
+
+# python virtualenv
+.venv/
