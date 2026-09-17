@@ -20,3 +20,5 @@ dist/
 
 # python virtualenv
 .venv/
+backend/__pycache__/
+*.pyc
